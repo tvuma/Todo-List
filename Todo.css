@@ -1,0 +1,86 @@
+.task-heading{
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 700;
+}
+.container {
+    background-color: #f9fbfe;
+    height: 100vh;
+}
+.heading {
+    font-family:"Roboto";
+    font-size: 48px;
+    font-weight: 500;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.inputele{
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e4e7eb;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 15px;
+    width: 100%;
+}
+.sub-heading{
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 500;
+    color: #333;
+   
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.todo-item{
+    
+    padding: 0px;
+    margin-bottom: 12px;
+}
+.checkbox-ele{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    margin-top: 12px;
+}
+.label-container{
+    background-color: #e6f6ff;
+    width: 100%;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 4px;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    border-color: #096f92;
+}
+.label-ele{
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    color: #333;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 4px;
+    margin: 0px;
+    
+    width: 70%;
+}
+.delete-container{
+    text-align: right;
+    width: 18%;
+    margin: 10px;
+
+}
+.delete-ele{
+    padding: 16px;
+}
+
+.checked{
+    text-decoration: line-through;
+}
